@@ -1,5 +1,3 @@
-reactiveScalarTransportFoam
-
 Custom OpenFOAM solver and wall boundary condition for reactive scalar transport.
 
 Components
